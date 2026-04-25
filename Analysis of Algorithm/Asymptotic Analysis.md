@@ -13,3 +13,5 @@ Digital / Paper Gold	Gold ETFs
 	Digital Gold	
 Gold Futures & Derivatives	Trading	
 
+
+
