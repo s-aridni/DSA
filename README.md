@@ -46,10 +46,3 @@ It takes an **input**, follows a defined set of steps, and produces an **output*
 They work together -- choosing the right data structure often makes the
 algorithm faster. For example, searching in an unsorted array is O(n), but
 searching in a HashMap is O(1).
-
-
-
-
-**NOTE:**
-- Explanation should be concise and clear. With example if possible
-- Understanding the pattern is the key
